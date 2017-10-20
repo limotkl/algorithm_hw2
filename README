@@ -1,0 +1,12 @@
+
+----run Q1
+gcc Li_Fang_pa2_strassen.c -o a.o  
+./a.o n
+
+----run Q2
+gcc Li_Fang_pa2_lim.c -o a.o  
+./a.o n
+
+----run Q3
+gcc Li_Fang_pa2_heap_radix.c -o a.o  
+./a.o
